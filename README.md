@@ -1,5 +1,5 @@
-# TugasPraktikum2SistemOperasi
-50 command line ubuntu
+# Tugas Praktikum 2 Sistem Operasi
+## 50 command line ubuntu
 
 ## 1. ls
 ![Screenshot from 2024-08-30 20-40-08](https://github.com/user-attachments/assets/21553d31-5596-4cc4-817e-d0ba02ce58b1)
